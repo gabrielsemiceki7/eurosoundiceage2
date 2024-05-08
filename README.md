@@ -1,5 +1,5 @@
 # EuroSound Editor Ice Age 2: The Meltdown
-@jmarti856 When the authoring tools for the PC game Ice Age 2: The Meltdown were published, it included the original level editor "EuroLand", but unlike this, the soundbanks and musicsbanks editor was not included because it couldn't be recovered.
+When the authoring tools for the PC game Ice Age 2: The Meltdown were published, it included the original level editor "EuroLand", but unlike this, the soundbanks and musicsbanks editor was not included because it couldn't be recovered.
 
 This tool, wrote in C#, recreates the original tool that Eurocom developed for this purpose. Originally with this recreated tool, you could only be able to export for PC, but since the version 5.0.1.4 is also possible to export for PS2.
 
